@@ -12,3 +12,11 @@ I made this in KICAD as a hobby project and this repository has files useful for
 ![IMG_20240502_011513](https://github.com/Ganesharyal24894/PIC_Panda_DevBoard/assets/60917724/785ef4e2-da97-4ba4-a378-0931165f3ae5)
 
 ![IMG_20240502_011459](https://github.com/Ganesharyal24894/PIC_Panda_DevBoard/assets/60917724/d922990e-4884-4b50-8a32-2c86447b2559)
+
+After Assembly -
+
+![WhatsApp Image 2024-07-16 at 5 29 57 AM (1)](https://github.com/user-attachments/assets/58517088-dad8-4a2e-bcc0-4f57650a0d52)
+
+Final board -
+
+![WhatsApp Image 2024-07-22 at 2 06 00 AM](https://github.com/user-attachments/assets/699bb8c6-3b0d-4e15-80c3-3a3f8f4a1426)
